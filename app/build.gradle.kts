@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "denys.diomaxius.stopvape"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "denys.diomaxius.stopvape"
